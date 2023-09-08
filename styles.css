@@ -2,3 +2,19 @@ p {
     color: red;
     font-weight: bold;
 }
+
+body {
+    background-color: yellow;
+}
+
+input[type="text"] {
+    background-color: grey;
+    border-radius: 5px;
+    border: 1px solid red;
+
+}
+
+input[type="submit"] {
+    background-color: orange;
+    border-radius: 5px;
+}
